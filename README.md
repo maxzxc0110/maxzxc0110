@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 #### Certifications
-<a href="https://www.credential.net/f347eacb-0ff5-4e2c-9018-ac6da3ebf72c" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/oscp.png" class="cert" alt='OSCP' width="80px"></a>
+<a href="https://www.credential.net/f347eacb-0ff5-4e2c-9018-ac6da3ebf72c" target="_blank"><img src="https://github.com/maxzxc0110/hack-study/blob/main/badge/oscp.png" class="cert" alt='OSCP' width="80px"></a>
 
 
